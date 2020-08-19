@@ -1,0 +1,19 @@
+{
+  "name": "preview-text",
+  "version": "1.0.0",
+  "description": "A JavaScript utility to create preview texts from HTML",
+  "main": "preview-text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paper-development/preview-text.git"
+  },
+  "author": "Paper Development - Noah Boegli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paper-development/preview-text/issues"
+  },
+  "homepage": "https://github.com/paper-development/preview-text#readme"
+}
